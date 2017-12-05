@@ -1,0 +1,76 @@
+h1{
+	background: url(../img/head.png) no-repeat;
+	width: 142px;
+	height: 53px;
+	text-indent: -9999px;
+	margin-left: 170px;
+	cursor: pointer;
+}
+h2{
+	font-weight: normal;
+}
+.main{
+	width: 100%;
+	max-width: 500px;
+	margin: auto;
+	text-align: center;
+	font-family: sans-serif;
+}
+li{
+	display: inline;
+}
+
+
+.center{
+	background-color: #d8d8d8;
+	align-self: center;
+	width: 70%;
+	margin: auto;
+	height: 300px;
+	box-shadow: 4px 4px 5px #e8e8e8;
+	border-radius: 3px 3px 3px 3px;
+}
+button{
+	display: block;
+	width: 70%;
+	margin: auto;
+	height: 35px;
+	background-color: blue;
+	color: white;
+	margin-top: 10px;
+	border-radius: 4px 4px 4px 4px;
+	border-style: none;
+	margin-bottom: 5px;
+}
+#person{
+	width: 120px;
+	height: 120px;
+	display: block;
+	margin: auto;
+	border-radius: 200px 200px;
+	background-color: white;
+}
+#txt{
+	width: 70%;
+	height: 40px;
+	margin-left: 0px;
+    margin-top: 20px;
+    
+}
+#find{
+	
+	text-align: left;
+}
+ul li img{
+	width: 30px;
+	height: 30px;
+}
+ul li{
+	padding: 10px;
+}
+#footer{
+	margin-top: 0px;
+}
+#ffooter{
+	margin-bottom: 0px;
+}
